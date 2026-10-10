@@ -1,0 +1,11 @@
+# mac hidden files
+.DS_Store
+
+# Directory-based project format:
+.idea/
+.idea/workspace.xml
+**/.idea/workspace.xml
+
+node_modules
+/concurrenthull/animation/three.js-master
+/concurrenthull/animation/.idea
